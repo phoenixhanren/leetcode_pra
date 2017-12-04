@@ -1,1 +1,4 @@
-﻿
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(LeetCode.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+  LeetCode.vcxproj -> D:\用户目录\我的文档\Visual Studio 2017\Projects\Leetcode\Debug\1.twosum.exe
+  LeetCode.vcxproj -> D:\用户目录\我的文档\Visual Studio 2017\Projects\Leetcode\Debug\1.twosum.pdb (Partial PDB)

@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "350.Intersection of Two Arr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "242.Valid Anagram", "Valid Anagram\Valid Anagram.vcxproj", "{CEFC0296-EAF4-4CB6-AA64-63913DB35871}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "324.Wiggle Sort II", "324.Wiggle Sort II\324.Wiggle Sort II.vcxproj", "{376288DF-E1DC-4207-AAEF-294379ED1C32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "88.Merge Sorted Array", "88.Merge Sorted Array\88.Merge Sorted Array.vcxproj", "{D5089974-14B8-4821-99CA-159767B510AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +75,22 @@ Global
 		{CEFC0296-EAF4-4CB6-AA64-63913DB35871}.Release|x64.Build.0 = Release|x64
 		{CEFC0296-EAF4-4CB6-AA64-63913DB35871}.Release|x86.ActiveCfg = Release|Win32
 		{CEFC0296-EAF4-4CB6-AA64-63913DB35871}.Release|x86.Build.0 = Release|Win32
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Debug|x64.ActiveCfg = Debug|x64
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Debug|x64.Build.0 = Debug|x64
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Debug|x86.ActiveCfg = Debug|Win32
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Debug|x86.Build.0 = Debug|Win32
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Release|x64.ActiveCfg = Release|x64
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Release|x64.Build.0 = Release|x64
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Release|x86.ActiveCfg = Release|Win32
+		{376288DF-E1DC-4207-AAEF-294379ED1C32}.Release|x86.Build.0 = Release|Win32
+		{D5089974-14B8-4821-99CA-159767B510AA}.Debug|x64.ActiveCfg = Debug|x64
+		{D5089974-14B8-4821-99CA-159767B510AA}.Debug|x64.Build.0 = Debug|x64
+		{D5089974-14B8-4821-99CA-159767B510AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5089974-14B8-4821-99CA-159767B510AA}.Debug|x86.Build.0 = Debug|Win32
+		{D5089974-14B8-4821-99CA-159767B510AA}.Release|x64.ActiveCfg = Release|x64
+		{D5089974-14B8-4821-99CA-159767B510AA}.Release|x64.Build.0 = Release|x64
+		{D5089974-14B8-4821-99CA-159767B510AA}.Release|x86.ActiveCfg = Release|Win32
+		{D5089974-14B8-4821-99CA-159767B510AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
