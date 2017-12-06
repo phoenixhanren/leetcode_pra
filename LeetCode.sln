@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "56.Merge Intervals", "56.Me
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "717.1-bit and 2-bit Characters", "717.1-bit and 2-bit Characters\717.1-bit and 2-bit Characters.vcxproj", "{09602E09-3FE1-44C4-8F0E-524ADBD0DFA5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "274.H-Index", "274.H-Index\274.H-Index.vcxproj", "{40229868-D625-4B6B-99A4-F77B8673B90F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "303.Range Sum Query - Immutable", "303.Range Sum Query - Immutable\303.Range Sum Query - Immutable.vcxproj", "{45F2EE35-A371-4A1B-BF54-288E799EC747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +115,22 @@ Global
 		{09602E09-3FE1-44C4-8F0E-524ADBD0DFA5}.Release|x64.Build.0 = Release|x64
 		{09602E09-3FE1-44C4-8F0E-524ADBD0DFA5}.Release|x86.ActiveCfg = Release|Win32
 		{09602E09-3FE1-44C4-8F0E-524ADBD0DFA5}.Release|x86.Build.0 = Release|Win32
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Debug|x64.ActiveCfg = Debug|x64
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Debug|x64.Build.0 = Debug|x64
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Debug|x86.ActiveCfg = Debug|Win32
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Debug|x86.Build.0 = Debug|Win32
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Release|x64.ActiveCfg = Release|x64
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Release|x64.Build.0 = Release|x64
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Release|x86.ActiveCfg = Release|Win32
+		{40229868-D625-4B6B-99A4-F77B8673B90F}.Release|x86.Build.0 = Release|Win32
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Debug|x64.ActiveCfg = Debug|x64
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Debug|x64.Build.0 = Debug|x64
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Debug|x86.ActiveCfg = Debug|Win32
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Debug|x86.Build.0 = Debug|Win32
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Release|x64.ActiveCfg = Release|x64
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Release|x64.Build.0 = Release|x64
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Release|x86.ActiveCfg = Release|Win32
+		{45F2EE35-A371-4A1B-BF54-288E799EC747}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
