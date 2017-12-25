@@ -49,9 +49,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "740. Delete and Earn", "740
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "64. Minimum Path Sum", "64. Minimum Path Sum\64. Minimum Path Sum.vcxproj", "{E203A427-1829-46CA-9DE0-904218E1DD5A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "712. Minimum ASCII Delete Sum for Two Strings", "712. Minimum ASCII Delete Sum for Two Strings\712. Minimum ASCII Delete Sum for Two Strings.vcxproj", "{162B5E31-7A22-47BF-B7E6-C0A4ED51385D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "712. (undone )Minimum ASCII Delete Sum for Two Strings", "712. Minimum ASCII Delete Sum for Two Strings\712. Minimum ASCII Delete Sum for Two Strings.vcxproj", "{162B5E31-7A22-47BF-B7E6-C0A4ED51385D}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "57. Insert Interval", "57. Insert Interval\57. Insert Interval.vcxproj", "{D652D648-53A9-41A3-8351-14CB4490ED6C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "148. (undone )Sort List", "148. Sort List\148. Sort List.vcxproj", "{31696B34-0406-4149-95F7-0A8CB6530219}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,14 @@ Global
 		{D652D648-53A9-41A3-8351-14CB4490ED6C}.Release|x64.Build.0 = Release|x64
 		{D652D648-53A9-41A3-8351-14CB4490ED6C}.Release|x86.ActiveCfg = Release|Win32
 		{D652D648-53A9-41A3-8351-14CB4490ED6C}.Release|x86.Build.0 = Release|Win32
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Debug|x64.ActiveCfg = Debug|x64
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Debug|x64.Build.0 = Debug|x64
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Debug|x86.ActiveCfg = Debug|Win32
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Debug|x86.Build.0 = Debug|Win32
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Release|x64.ActiveCfg = Release|x64
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Release|x64.Build.0 = Release|x64
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Release|x86.ActiveCfg = Release|Win32
+		{31696B34-0406-4149-95F7-0A8CB6530219}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
