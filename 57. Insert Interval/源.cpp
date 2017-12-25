@@ -90,6 +90,31 @@ public:
 
 		return ans;
 	}
+
+	vector<Interval> insertNew(vector<Interval>& intervals, Interval newInterval) {
+		vector<Interval> ans;
+		int i = 0;
+
+		for (; i < intervals.size() && intervals[i].end < newInterval.start; ++i)
+		{
+			ans.push_back(intervals[i]);
+		}
+
+		Interval temp = newInterval;
+		//temp.start = newInterval.start;
+		for (; i < intervals.size() && intervals[i].start <= newInterval.end; ++i) 
+		{
+			temp.start = min(temp.start, intervals[i].start);
+			temp.end = max(intervals[i].end, newInterval.end);
+		}
+		ans.push_back(temp);
+
+		for (; i < intervals.size(); ++i)
+		{
+			ans.push_back(intervals[i]);
+		}
+		return ans;
+	}
 };
 
 int main()
