@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "500. Keyboard Row", "500. K
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "375. Guess Number Higher or Lower II", "375. Guess Number Higher or Lower II\375. Guess Number Higher or Lower II.vcxproj", "{DECA401C-4174-4D3E-8016-3642AA8359B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "647. Palindromic Substrings", "647. Palindromic Substrings\647. Palindromic Substrings.vcxproj", "{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{DECA401C-4174-4D3E-8016-3642AA8359B6}.Release|x64.Build.0 = Release|x64
 		{DECA401C-4174-4D3E-8016-3642AA8359B6}.Release|x86.ActiveCfg = Release|Win32
 		{DECA401C-4174-4D3E-8016-3642AA8359B6}.Release|x86.Build.0 = Release|Win32
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Debug|x64.ActiveCfg = Debug|x64
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Debug|x64.Build.0 = Debug|x64
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Debug|x86.Build.0 = Debug|Win32
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Release|x64.ActiveCfg = Release|x64
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Release|x64.Build.0 = Release|x64
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Release|x86.ActiveCfg = Release|Win32
+		{1E7B3616-14A6-447B-ADDB-2FD9900CF0B6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
