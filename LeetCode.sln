@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "467. Unique Substrings in W
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "91. Decode Ways", "91. Decode Ways\91. Decode Ways.vcxproj", "{4DA92AB5-BD83-42F6-AA4A-A49D679C050A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.vcxproj", "{31D54AC7-543A-494B-81FB-2ECE8715DA83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{4DA92AB5-BD83-42F6-AA4A-A49D679C050A}.Release|x64.Build.0 = Release|x64
 		{4DA92AB5-BD83-42F6-AA4A-A49D679C050A}.Release|x86.ActiveCfg = Release|Win32
 		{4DA92AB5-BD83-42F6-AA4A-A49D679C050A}.Release|x86.Build.0 = Release|Win32
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Debug|x64.ActiveCfg = Debug|x64
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Debug|x64.Build.0 = Debug|x64
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Debug|x86.ActiveCfg = Debug|Win32
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Debug|x86.Build.0 = Debug|Win32
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Release|x64.ActiveCfg = Release|x64
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Release|x64.Build.0 = Release|x64
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Release|x86.ActiveCfg = Release|Win32
+		{31D54AC7-543A-494B-81FB-2ECE8715DA83}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
