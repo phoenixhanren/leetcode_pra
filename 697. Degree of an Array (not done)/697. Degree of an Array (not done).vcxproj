@@ -23,6 +23,7 @@
     <ProjectGuid>{9715303C-2E94-4555-A0DB-DFD199E0F8FD}</ProjectGuid>
     <RootNamespace>My697DegreeofanArraynotdone</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
+    <ProjectName>697. Degree of an Array</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
