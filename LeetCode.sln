@@ -39,7 +39,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "70. Climbing Stairs", "70. 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "147. Insertion Sort List", "147. Insertion Sort List\147. Insertion Sort List.vcxproj", "{E0C24118-04D9-41A3-8232-F71271A9975F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "697. Degree of an Array (not done)", "697. Degree of an Array (not done)\697. Degree of an Array (not done).vcxproj", "{9715303C-2E94-4555-A0DB-DFD199E0F8FD}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "697. Degree of an Array", "697. Degree of an Array (not done)\697. Degree of an Array (not done).vcxproj", "{9715303C-2E94-4555-A0DB-DFD199E0F8FD}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "179. Largest Number", "179. Largest Number\179. Largest Number.vcxproj", "{AB92F56A-3BD2-4001-943E-5E3FEFA7B952}"
 EndProject
@@ -96,6 +96,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "581. Shortest Unsorted Continuous Subarray", "581. Shortest Unsorted Continuous Subarray\581. Shortest Unsorted Continuous Subarray.vcxproj", "{1C973693-52BF-47CA-BACD-BAF8E8E004E4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "217. Contains Duplicate", "217. Contains Duplicate\217. Contains Duplicate.vcxproj", "{5573A164-2611-49C3-B2D3-6C510F2E8FC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "606. Construct String from Binary Tree", "606. Construct String from Binary Tree\606. Construct String from Binary Tree.vcxproj", "{554C370E-CADC-4538-B636-ADFAB2161543}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -481,6 +483,14 @@ Global
 		{5573A164-2611-49C3-B2D3-6C510F2E8FC8}.Release|x64.Build.0 = Release|x64
 		{5573A164-2611-49C3-B2D3-6C510F2E8FC8}.Release|x86.ActiveCfg = Release|Win32
 		{5573A164-2611-49C3-B2D3-6C510F2E8FC8}.Release|x86.Build.0 = Release|Win32
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Debug|x64.ActiveCfg = Debug|x64
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Debug|x64.Build.0 = Debug|x64
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Debug|x86.ActiveCfg = Debug|Win32
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Debug|x86.Build.0 = Debug|Win32
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Release|x64.ActiveCfg = Release|x64
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Release|x64.Build.0 = Release|x64
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Release|x86.ActiveCfg = Release|Win32
+		{554C370E-CADC-4538-B636-ADFAB2161543}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
