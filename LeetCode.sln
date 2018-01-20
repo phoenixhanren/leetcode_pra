@@ -115,6 +115,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35. Search Insert Position"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "628. Maximum Product of Three Numbers", "628. Maximum Product of Three Numbers\628. Maximum Product of Three Numbers.vcxproj", "{44FA786A-D90B-4C0C-92B8-4E6ADFEA72E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.vcxproj", "{93AD065C-76D5-42C4-8F9F-12E1C92C741D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -571,6 +573,14 @@ Global
 		{44FA786A-D90B-4C0C-92B8-4E6ADFEA72E2}.Release|x64.Build.0 = Release|x64
 		{44FA786A-D90B-4C0C-92B8-4E6ADFEA72E2}.Release|x86.ActiveCfg = Release|Win32
 		{44FA786A-D90B-4C0C-92B8-4E6ADFEA72E2}.Release|x86.Build.0 = Release|Win32
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Debug|x64.ActiveCfg = Debug|x64
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Debug|x64.Build.0 = Debug|x64
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Debug|x86.ActiveCfg = Debug|Win32
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Debug|x86.Build.0 = Debug|Win32
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Release|x64.ActiveCfg = Release|x64
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Release|x64.Build.0 = Release|x64
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Release|x86.ActiveCfg = Release|Win32
+		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
