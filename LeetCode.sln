@@ -117,6 +117,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "628. Maximum Product of Thr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.vcxproj", "{93AD065C-76D5-42C4-8F9F-12E1C92C741D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "485. Max Consecutive Ones", "485. Max Consecutive Ones\485. Max Consecutive Ones.vcxproj", "{62EC71F5-A7C9-48B2-8FBA-795403572FA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -581,6 +583,14 @@ Global
 		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Release|x64.Build.0 = Release|x64
 		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Release|x86.ActiveCfg = Release|Win32
 		{93AD065C-76D5-42C4-8F9F-12E1C92C741D}.Release|x86.Build.0 = Release|Win32
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Debug|x64.ActiveCfg = Debug|x64
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Debug|x64.Build.0 = Debug|x64
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Debug|x86.Build.0 = Debug|Win32
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Release|x64.ActiveCfg = Release|x64
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Release|x64.Build.0 = Release|x64
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Release|x86.ActiveCfg = Release|Win32
+		{62EC71F5-A7C9-48B2-8FBA-795403572FA4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
