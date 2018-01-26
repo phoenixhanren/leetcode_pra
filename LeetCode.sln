@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "674. Longest Continuous Inc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "665. Non-decreasing Array", "665. Non-decreasing Array\665. Non-decreasing Array.vcxproj", "{ABF967B2-F63A-49DC-A064-D01B34798348}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "747. Largest Number At Least Twice of Others", "747. Largest Number At Least Twice of Others\747. Largest Number At Least Twice of Others.vcxproj", "{0E8261B2-9C55-4389-8E1E-F632DB46D02B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -611,6 +613,14 @@ Global
 		{ABF967B2-F63A-49DC-A064-D01B34798348}.Release|x64.Build.0 = Release|x64
 		{ABF967B2-F63A-49DC-A064-D01B34798348}.Release|x86.ActiveCfg = Release|Win32
 		{ABF967B2-F63A-49DC-A064-D01B34798348}.Release|x86.Build.0 = Release|Win32
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Debug|x64.ActiveCfg = Debug|x64
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Debug|x64.Build.0 = Debug|x64
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Debug|x86.Build.0 = Debug|Win32
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Release|x64.ActiveCfg = Release|x64
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Release|x64.Build.0 = Release|x64
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Release|x86.ActiveCfg = Release|Win32
+		{0E8261B2-9C55-4389-8E1E-F632DB46D02B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
