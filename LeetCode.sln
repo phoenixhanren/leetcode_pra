@@ -131,6 +131,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "661. Image Smoother", "661.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "643. Maximum Average Subarray I", "643. Maximum Average Subarray I\643. Maximum Average Subarray I.vcxproj", "{634589CB-8408-478A-8A7F-F115BDD33F46}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "605. Can Place Flowers", "605. Can Place Flowers\605. Can Place Flowers.vcxproj", "{2A011299-F1CB-4B51-B8BC-3487A4485CDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -651,6 +653,14 @@ Global
 		{634589CB-8408-478A-8A7F-F115BDD33F46}.Release|x64.Build.0 = Release|x64
 		{634589CB-8408-478A-8A7F-F115BDD33F46}.Release|x86.ActiveCfg = Release|Win32
 		{634589CB-8408-478A-8A7F-F115BDD33F46}.Release|x86.Build.0 = Release|Win32
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Debug|x64.ActiveCfg = Debug|x64
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Debug|x64.Build.0 = Debug|x64
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Debug|x86.Build.0 = Debug|Win32
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Release|x64.ActiveCfg = Release|x64
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Release|x64.Build.0 = Release|x64
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Release|x86.ActiveCfg = Release|Win32
+		{2A011299-F1CB-4B51-B8BC-3487A4485CDD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
