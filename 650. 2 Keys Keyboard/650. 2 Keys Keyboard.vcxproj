@@ -23,7 +23,7 @@
     <ProjectGuid>{4608103C-540C-47D3-AACB-719DC4037472}</ProjectGuid>
     <RootNamespace>My6502KeysKeyboard</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
-    <ProjectName>650. 2 Keys Keyboard (undone)</ProjectName>
+    <ProjectName>650. 2 Keys Keyboard</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
