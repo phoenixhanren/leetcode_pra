@@ -91,7 +91,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "96. Unique Binary Search Tr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "95. Unique Binary Search Trees II", "95. Unique Binary Search Trees II\95. Unique Binary Search Trees II.vcxproj", "{74DF2E32-5615-4433-B561-2D17129460CC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "650. 2 Keys Keyboard (undone)", "650. 2 Keys Keyboard\650. 2 Keys Keyboard.vcxproj", "{4608103C-540C-47D3-AACB-719DC4037472}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "650. 2 Keys Keyboard", "650. 2 Keys Keyboard\650. 2 Keys Keyboard.vcxproj", "{4608103C-540C-47D3-AACB-719DC4037472}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "581. Shortest Unsorted Continuous Subarray", "581. Shortest Unsorted Continuous Subarray\581. Shortest Unsorted Continuous Subarray.vcxproj", "{1C973693-52BF-47CA-BACD-BAF8E8E004E4}"
 EndProject
@@ -148,6 +148,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "66. Plus One", "66. Plus One\66. Plus One.vcxproj", "{730E0A15-9D50-483B-8598-19C157A74F95}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "414. Third Maximum Number", "414. Third Maximum Number\414. Third Maximum Number.vcxproj", "{ADCF746F-A9D5-4C99-8D1D-3DE9878FA914}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "566. Reshape the Matrix", "566. Reshape the Matrix\566. Reshape the Matrix.vcxproj", "{AE127FAA-0B88-4075-9D3E-C0F163989998}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "532. K-diff Pairs in an Array", "532. K-diff Pairs in an Array\532. K-diff Pairs in an Array.vcxproj", "{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -741,6 +745,22 @@ Global
 		{ADCF746F-A9D5-4C99-8D1D-3DE9878FA914}.Release|x64.Build.0 = Release|x64
 		{ADCF746F-A9D5-4C99-8D1D-3DE9878FA914}.Release|x86.ActiveCfg = Release|Win32
 		{ADCF746F-A9D5-4C99-8D1D-3DE9878FA914}.Release|x86.Build.0 = Release|Win32
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Debug|x64.ActiveCfg = Debug|x64
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Debug|x64.Build.0 = Debug|x64
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Debug|x86.Build.0 = Debug|Win32
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Release|x64.ActiveCfg = Release|x64
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Release|x64.Build.0 = Release|x64
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Release|x86.ActiveCfg = Release|Win32
+		{AE127FAA-0B88-4075-9D3E-C0F163989998}.Release|x86.Build.0 = Release|Win32
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Debug|x64.ActiveCfg = Debug|x64
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Debug|x64.Build.0 = Debug|x64
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Debug|x86.Build.0 = Debug|Win32
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Release|x64.ActiveCfg = Release|x64
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Release|x64.Build.0 = Release|x64
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Release|x86.ActiveCfg = Release|Win32
+		{E139FAE8-6F20-49D4-A8A9-2774ECDA254C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
