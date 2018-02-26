@@ -109,7 +109,6 @@ public:
                 int need = min(dp[i + 1][j], dp[i][j + 1]) - dungeon[i][j];
                 dp[i][j] = need <= 0 ? 1 : need;
             }
-
         }
         return dp[0][0];
     }
