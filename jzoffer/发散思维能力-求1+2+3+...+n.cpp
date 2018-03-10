@@ -27,6 +27,7 @@ unsigned int Temp::sum = 0;
 class Solution {
 public:
     int Sum_Solution(int n) {
+        Temp::reset();
         Temp * t = new Temp[n];
         int ans = Temp::getSum();
         delete [] t;
